@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/F_Igrzyska/cmake-build-debug/CMakeFiles/F_Igrzyska.dir
+C:/Users/Dawid/CLionProjects/F_Igrzyska/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/F_Igrzyska/cmake-build-debug/CMakeFiles/rebuild_cache.dir
