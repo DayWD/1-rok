@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/P1_Sklad_Towaru/cmake-build-debug/CMakeFiles/P1_Sklad_Towaru.dir
+C:/Users/Dawid/CLionProjects/P1_Sklad_Towaru/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/P1_Sklad_Towaru/cmake-build-debug/CMakeFiles/rebuild_cache.dir
